@@ -1,5 +1,10 @@
 # wingspan-assets
 
+Example:
+https://wingspan-assets.netlify.app/images/myvelofit/Navigation-Controls-Upload.png
+
+
+
 Asset Library README Instructions
 
 This repository stores public image, document, and brand assets that can be linked from Markdown files, websites, documentation, and other public content.
